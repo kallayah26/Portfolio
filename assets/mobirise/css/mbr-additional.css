@@ -738,6 +738,17 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-rIReQvdHR0 {
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-color: #a87fb0;
+}
+.cid-rIReQvdHR0 .mbr-text {
+  color: #ffffff;
+}
+.cid-rIReQvdHR0 .mbr-text P {
+  text-align: center;
+}
 .cid-rH9UjFjNLk {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1185,7 +1196,7 @@ section.lazy-placeholder:after {
 }
 .cid-rH9ER5mPx5 {
   padding-top: 90px;
-  padding-bottom: 0px;
+  padding-bottom: 60px;
   background: linear-gradient(45deg, #cb8ed7, #232323);
 }
 @media (min-width: 992px) {
@@ -1488,14 +1499,6 @@ section.lazy-placeholder:after {
 .cid-rH9GiVEySw P {
   color: #ffffff;
 }
-.cid-rHDzfK6Msp {
-  padding-top: 90px;
-  padding-bottom: 60px;
-  background-color: #a87fb0;
-}
-.cid-rHDzfK6Msp .mbr-text {
-  color: #232323;
-}
 .cid-rH9M3T4Fu8 {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1565,6 +1568,50 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rIqK1dp51u {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-rIqK1dp51u p {
+  color: #767676;
+}
+.cid-rIqK1dp51u .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rIqK1dp51u .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rIqK1dp51u .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-rIqK1dp51u .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rIqK1dp51u .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-rIqK1dp51u .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rIqK1dp51u H4 {
+  text-align: center;
+}
+.cid-rIqK1dp51u .panel-text {
+  color: #a87fb0;
 }
 .cid-rH9Qmraxmo {
   padding-top: 30px;
