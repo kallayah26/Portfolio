@@ -1598,7 +1598,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/jpegofstation1poster-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -1614,6 +1614,25 @@
                 "contentAlign": "center",
                 "text": "<b>Research Poster&nbsp;</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"assets/files/SFF2019_D3_Henderson_Elbakian_FINAL.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/untitled-design-500x500.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "",
+                "customStyle1": "display-2",
+                "customStyle2": "display-2",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "VIDEO SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<b>&nbsp;</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=zybQfqeU52U&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW VIDEO</a> "
               }
             ]
           }
